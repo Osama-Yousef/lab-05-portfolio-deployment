@@ -1,6 +1,6 @@
 # lab-05-portfolio-deployment
 
-### live url link : 
+### live url link for deploying my app on heroku  : https://osama-yousef-portfolio.herokuapp.com/portfolio.html
 
 * Number and name of feature: Feature #1 - Deployment
 
